@@ -1,5 +1,6 @@
 package com.example.outdooradventures
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -24,6 +25,8 @@ class MainActivity : ComponentActivity() {
                 Column() {
                     Text("Campsite Commander")
                 }
+                val intent= Intent(this@MainActivity, MainScreen::class.java)
+                startActivity(intent)
                 }
             }
         }
