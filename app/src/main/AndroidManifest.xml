@@ -12,6 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.OutdoorAdventures">
         <activity
+            android:name=".DetailedView"
+            android:exported="false"
+            android:label="@string/title_activity_detailed_view"
+            android:theme="@style/Theme.OutdoorAdventures" />
+        <activity
             android:name=".MainScreen"
             android:exported="false"
             android:label="@string/title_activity_main_screen"
