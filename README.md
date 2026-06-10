@@ -1,5 +1,5 @@
 # OutdoorAdventures
-<img width="640" height="640" alt="84e76979d21441858fd2f32c8d367c34" src="https://github.com/user-attachments/assets/6c988023-dd1e-4c28-8e0e-84c957186aaf" />
+<img width="350" height="350" alt="84e76979d21441858fd2f32c8d367c34" src="https://github.com/user-attachments/assets/6c988023-dd1e-4c28-8e0e-84c957186aaf" />
 
 
 
